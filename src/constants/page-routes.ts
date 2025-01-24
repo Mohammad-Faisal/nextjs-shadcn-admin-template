@@ -1,5 +1,6 @@
 export const PageRoutes = {
   DASHBOARD: '/dashboard',
   USERS: '/users',
-  RESOURCES: '/resources'
+  RESOURCES: '/resources',
+  FORMS: '/form-demo'
 }

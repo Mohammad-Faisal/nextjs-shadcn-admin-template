@@ -47,6 +47,11 @@ const adminItems = [
     icon: Users,
     title: 'Users',
     url: PageRoutes.USERS
+  },
+  {
+    icon: Users,
+    title: 'Forms',
+    url: PageRoutes.FORMS
   }
 ]
 
